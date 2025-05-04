@@ -22,6 +22,6 @@ The project involves the following key steps:
 - [Running the Application](#running-the-application)
 
 ## Accuracy with naive bayes
-(!Naive BAYES)()
+![Output Screenshot1](output/output1.png)
 
 
